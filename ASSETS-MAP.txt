@@ -1,0 +1,43 @@
+خريطة الصور: كل صورة في مجلد assets قصدها أنهي تصميم
+(اسم ملف التحميل = الملف اللي بينزل للعميل لما يدوس حمّل صورة التصميم)
+
+تصميم كلاسيك (بدون رقم) | دبدوبين Better Together | بني وكريمي | ./assets/U2SUFCK5.jpg | veloura-bears.jpg
+تصميم كلاسيك (بدون رقم) | حروفكم مع قلوب | أسود وأبيض | ./assets/OD7TMN6C.jpg | veloura-am-hearts.jpg
+تصميم كلاسيك (بدون رقم) | نفس السماء | أسود وبيج | ./assets/VRGKG3XM.jpg | veloura-celestial.jpg
+تصميم كلاسيك (بدون رقم) | قلب بحر تشريحي | أسود وأسود | ./assets/QENMZFTY.jpg | veloura-anatomical-hangers.jpg
+تصميم كلاسيك (بدون رقم) | تماثيل يونانية | أسود وبيج | ./assets/R4THYRCN.jpg | veloura-statues.jpg
+تصميم كلاسيك (بدون رقم) | ولد وبنت Better Together | أسود وأسود | ./assets/5PJXMD3R.jpg | veloura-streetlight.jpg
+تصميم كلاسيك (بدون رقم) | Two Souls One Story | أسود وأزرق | ./assets/S2SWJD5S.jpg | veloura-kiss.jpg
+تصميم كلاسيك (بدون رقم) | أنمي Same Soul | أسود وأبيض | ./assets/ITU3VWT5.jpg | veloura-sunmoon-tags.jpg
+تصميم كلاسيك (بدون رقم) | ليحتضنك بدلًا عني Better Together | أسود وأسود | ./assets/QQCOEJUM.jpg | veloura-skeleton.jpg
+تصميم كلاسيك (بدون رقم) | إيدين ماسكين بعض | أسود وأبيض | ./assets/DHWANZZV.jpg | veloura-animalheads.jpg
+تصميم كلاسيك (بدون رقم) | حرفك مع حبيب على الكم | أسود | ./assets/3XS2GVQK.jpg | veloura-ruffyou.jpg
+تصميم كلاسيك (بدون رقم) | My Heart With You | أسود وأسود | ./assets/DCWS3PDJ.jpg | veloura-kingqueen.jpg
+تصميم كلاسيك (بدون رقم) | حرف عربي وتاريخكم | أسود وأبيض | ./assets/5VPZB7OD.jpg | veloura-flowersback.jpg
+تصميم كلاسيك (بدون رقم) | قلب بيحضن مع تاريخكم | كريمي وبني غامق | ./assets/M3UDIDPK.jpg | veloura-heartsflat.jpg
+تصميم كلاسيك (بدون رقم) | قفل ومفتاح ذهبي | رمادي غامق وأبيض | ./assets/6IISD5PW.jpg | veloura-elephants.jpg
+تصميم كلاسيك (بدون رقم) | صاروخ وكوكب | كحلي وأسود | ./assets/EOLZ6WJZ.jpg | veloura-twohearts.jpg
+تصميم كلاسيك (بدون رقم) | قلوب بحروفكم | أبيض | ./assets/QPUP3CRP.jpg | veloura-white-hearts-letters.jpg
+تصميم كلاسيك (بدون رقم) | تاج القلب Better Together | أخضر غامق وأخضر فاتح | ./assets/MLD6ZSKS.jpg | veloura-crown-better-together.jpg
+تصميم كلاسيك (بدون رقم) | ليحتضنك بدلًا عني | أسود | ./assets/RX2YZLUU.jpg | veloura-crown-hug.jpg
+تصميم كلاسيك (بدون رقم) | قلب مطرز | أبيض وأسود | ./assets/46RJSVOX.jpg | veloura-embroidered-hearts.jpg
+تصميم 2 | مونوجرام حرفكم | أسود وجملي | ./assets/ELC553YS.jpg | veloura-02-monogram.jpg
+تصميم 4 | تيجان ملكية | أسود وعنابي | ./assets/4FLOEEOE.jpg | veloura-04-royal-crowns.jpg
+تصميم 5 | قفل ومفتاح | رمادي غامق وأبيض | ./assets/JIQHKKYM.jpg | veloura-05-lock-key.jpg
+تصميم 6 | قطع بازل بتكمل بعض | كحلي ورمادي فاتح | ./assets/6A4YPGLB.jpg | veloura-06-puzzle.jpg
+تصميم 8 | نفس الرسمة بالعكس | أسود وأبيض | ./assets/5ZEXWEXE.jpg | veloura-08-inverted-twins.jpg
+تصميم 16 | أبراج النجوم | كحلي وبترولي | ./assets/MWB2BCP3.jpg | veloura-16-constellations.jpg
+تصميم 20 | تشيبي كيوت | رمادي فاتح ولافندر | ./assets/WUM53EME.jpg | veloura-20-chibi.jpg
+تصميم 30 | كوكب وصاروخ | كحلي ورمادي مزرق | ./assets/OFIGCEL3.jpg | veloura-30-planet-rocket.jpg
+تصميم 31 | مركب وطيارة | سماوي وأبيض | ./assets/Y4BVXRCR.jpg | veloura-31-boat-plane.jpg
+تصميم 32 | قطة وسمكة | رمادي غامق وسماوي | ./assets/OJLUHDAV.jpg | veloura-32-cat-fish.jpg
+تصميم 34 | أفوكادو | زيتي وبيج | ./assets/F6MUHXA5.jpg | veloura-34-avocado.jpg
+تصميم 35 | دبدوبين حضن | بني وبيج | ./assets/PFNXKSES.jpg | veloura-35-teddies.jpg
+تصميم 43 | قمر ورائد فضاء | كحلي وأسود | ./assets/6EBOKMFH.jpg | veloura-43-moon-astronaut.jpg
+تصميم 55 | دبابيس خريطة | جنزاري وأبيض | ./assets/JUJWZDM5.jpg | veloura-55-mappins.jpg
+تصميم 56 | نجوم الدب الأكبر | كحلي وأبيض | ./assets/45VBJ7HS.jpg | veloura-56-dipper.jpg
+تصميم 73 | شرنقة وفراشة | سماوي وأبيض | ./assets/EPG2IVZQ.jpg | veloura-73-butterfly.jpg
+تصميم 75 | برطمان يراعات | كحلي وكريمي | ./assets/BZ6XDQPI.jpg | veloura-75-fireflies.jpg
+تصميم 76 | شهب في الصحرا البيضا | أسود ورمادي | ./assets/4OQKYKTM.jpg | veloura-76-shootingstars.jpg
+تصميم 83 | ريشة وعصفورة | بترولي وأبيض | ./assets/PC7L4TLS.jpg | veloura-83-feather.jpg
+تصميم 87 | ندفة تلج وجوانتي | كحلي وأبيض | ./assets/GMKIYIK3.jpg | veloura-87-snowflake.jpg
