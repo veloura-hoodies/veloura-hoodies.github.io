@@ -12610,7 +12610,11 @@ Please change the parent <Route path="${parentPath}"> to <Route path="${parentPa
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("span", { className: "velora-ar", children: "\u0641\u064A\u0644\u0648\u0631\u0627" }),
           /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("span", { className: "velora-en", dir: "ltr", children: "VELOURA" })
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "velora-tag", dir: "ltr", children: "ELEGANCE IN EVERY DETAIL" })
+        /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "velora-tag", dir: "ltr", children: "ELEGANCE IN EVERY DETAIL" }),
+        /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "velora-price", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "velora-price-main", children: "\u0669\u0669\u0669 \u062C\u0646\u064A\u0647" }),
+          /* @__PURE__ */ (0, import_jsx_runtime27.jsx)("div", { className: "velora-price-sub", children: "\u0644\u0644\u0643\u0627\u0628\u0644\u0632 (\u0642\u0637\u0639\u062A\u064A\u0646) \u00B7 \u0634\u0627\u0645\u0644 \u0627\u0644\u0637\u0628\u0627\u0639\u0629 \u0645\u0646 \u0627\u062E\u062A\u064A\u0627\u0631\u0643" })
+        ] })
       ] }),
       /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(Vo, { heading: "\u0627\u062E\u062A\u0627\u0631 \u0627\u0644\u062A\u0635\u0645\u064A\u0645 \u0627\u0644\u0644\u064A \u064A\u0639\u062C\u0628\u0643 .. \u0648\u0645\u062A\u0627\u062D \u062A\u0639\u062F\u064A\u0644 \u0627\u064A \u0634\u064A\u0621 \u0641\u064A \u0627\u0644\u062A\u0635\u0645\u064A\u0645 \u0639\u0644\u064A \u062D\u0633\u0628 \u0627\u062E\u062A\u064A\u0627\u0631\u0643", children: designs.map((d) => /* @__PURE__ */ (0, import_jsx_runtime27.jsxs)("div", { className: "velora-design", children: [
         /* @__PURE__ */ (0, import_jsx_runtime27.jsx)(on, { label: d.name, title: d.name, items: [{ src: d.photo, alt: d.alt }] }),

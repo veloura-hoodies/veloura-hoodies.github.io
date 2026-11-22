@@ -5052,6 +5052,35 @@ body {
   letter-spacing: 0.34em;
   color: #bd9494;
 }
+.velora-brand .velora-price {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #f0dbd7;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  text-align: center;
+}
+.velora-brand .velora-price-main {
+  font-family: var(--ds-font-display);
+  font-size: 34px;
+  line-height: 1.2;
+  color: #7c4f4f;
+}
+.velora-brand .velora-price-sub {
+  font-size: 14.5px;
+  color: #a06b6b;
+}
+@media (min-width: 768px) {
+  .velora-brand .velora-price-main {
+    font-size: 40px;
+  }
+  .velora-brand .velora-price-sub {
+    font-size: 16px;
+  }
+}
 @media (min-width: 768px) {
   .velora-brand .velora-ar {
     font-size: 46px;
